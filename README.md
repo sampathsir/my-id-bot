@@ -16,7 +16,7 @@ This is a simple bot written with [aiogram](https://github.com/aiogram/aiogram) 
 * Linux (should work on Windows, but not tested);   
 * Systemd init system (not necessary).  
 * Docker (optional, see below).
-
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 #### Installation:  
 1. Create a directory for bot: `mkdir my-id-bot`;  
 2. `cd my-id-bot && python3 -m venv venv`;  
